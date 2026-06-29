@@ -23,6 +23,6 @@ The API follows REST architectural principles and supports full CRUD operations.
 
  3. How to Build and Run the Project
 
-Step 1: Clone the repository
-```bash
+
+bash
 git clone https://github.com/YOUR_USERNAME/mlops-api.git
